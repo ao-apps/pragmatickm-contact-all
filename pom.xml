@@ -34,12 +34,11 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	<packaging>pom</packaging>
 
 	<properties>
-		<bookPath>/contact/all</bookPath>
 		<shortTitle>All</shortTitle>
 	</properties>
 
 	<name>PragmaticKM Contact All</name>
-	<url>https://pragmatickm.com${bookPath}/</url><!-- Can't inherit due to multi-module -->
+	<url>https://pragmatickm.com/contact/all/</url>
 	<description>Convenience POM to include most PragmaticKM Contact features, not including documentation or examples.</description>
 	<inceptionYear>2016</inceptionYear>
 
