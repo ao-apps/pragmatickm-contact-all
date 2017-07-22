@@ -4,8 +4,8 @@ Convenience POM to include most [PragmaticKM Contact](https://pragmatickm.com/co
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/all/)
 * [Changelog](https://pragmatickm.com/contact/all/changelog)
-* [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
-* [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-all)
+* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-contact-all%22)
+* [GitHub](https://github.com/aoindustries/pragmatickm-contact-all)
 
 ## Modules Included
 * [PragmaticKM Contact Model](https://pragmatickm.com/contact/model/)
