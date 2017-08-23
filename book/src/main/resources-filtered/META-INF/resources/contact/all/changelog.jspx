@@ -54,8 +54,8 @@ along with pragmatickm-contact-all.  If not, see <http://www.gnu.org/licenses />
 				scmUrl="@{documented.scm.url}"
 			>
 				<ul>
-					<li>Updated version of <core:link book="/contact/servlet" page="/index.jspx" />.</li>
-					<li>Updated version of <core:link book="/contact/taglib" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/contact/servlet" page="/" />.</li>
+					<li>Updated version of <core:link book="/contact/taglib" page="/" />.</li>
 				</ul>
 			</changelog:release>
 		</c:if>
