@@ -58,7 +58,7 @@ along with pragmatickm-contact-all.  If not, see <http://www.gnu.org/licenses />
 					<li>Updated version of <core:link book="/contact/style" page="/" />.</li>
 					<li>Updated version of <core:link book="/contact/taglib" page="/" />.</li>
 					<li>Updated version of <core:link book="/contact/view" page="/" />.</li>
-					<li>New module <core:link book="/contactrenderer/html" page="/" />.</li>
+					<li>New module <core:link book="/contact/renderer/html" page="/" />.</li>
 				</ul>
 			</changelog:release>
 		</c:if>
