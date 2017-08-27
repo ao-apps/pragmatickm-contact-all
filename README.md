@@ -34,6 +34,7 @@ Convenience POM to include most [PragmaticKM Contact](https://pragmatickm.com/co
 
 ## Modules Included
 * [PragmaticKM Contact Model](https://pragmatickm.com/contact/model/)
+* [PragmaticKM Contact Renderer HTML](https://pragmatickm.com/contact/renderer/html/)
 * [PragmaticKM Contact Servlet](https://pragmatickm.com/contact/servlet/)
 * [PragmaticKM Contact Style](https://pragmatickm.com/contact/style/)
 * [PragmaticKM Contact Taglib](https://pragmatickm.com/contact/taglib/)
