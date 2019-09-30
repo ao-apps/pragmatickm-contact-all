@@ -36,7 +36,7 @@ along with pragmatickm-contact-all.  If not, see <http://www.gnu.org/licenses />
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T16:09:02-0500"
-		dateModified="2019-06-23T22:39:32-0500"
+		dateModified="2019-09-02T02:39:24-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-contact-all:pom.version}" />
@@ -51,7 +51,14 @@ along with pragmatickm-contact-all.  If not, see <http://www.gnu.org/licenses />
 				groupId="@{documented.groupId}"
 				artifactId="@{documented.artifactId}"
 				scmUrl="@{documented.scm.url}"
-			/>
+			>
+				<ul>
+					<li>Updated version of <core:link book="/contact/model" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/contact/servlet" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/contact/taglib" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/contact/view" page="/index.jspx" />.</li>
+				</ul>
+			</changelog:release>
 		</c:if>
 
 		<changelog:release
