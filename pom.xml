@@ -55,7 +55,7 @@ along with pragmatickm-contact-all.  If not, see <http://www.gnu.org/licenses />
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
-				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-model</artifactId><version>1.4.0${POST-SNAPSHOT}</version>
+				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-model</artifactId><version>1.5.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
 			</dependency>
 			<dependency>
 				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-servlet</artifactId><version>1.5.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
