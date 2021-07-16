@@ -9,6 +9,7 @@
 [![license: LGPL v3](https://pragmatickm.com/ao-badges/license-lgpl-3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 [![Build](https://github.com/aoindustries/pragmatickm-contact-all/workflows/Build/badge.svg?branch=master)](https://github.com/aoindustries/pragmatickm-contact-all/actions?query=workflow%3ABuild)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact-all/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact-all)
 
 Convenience POM to include most [PragmaticKM Contact](https://github.com/aoindustries/pragmatickm-contact) features, not including documentation or examples.
 
