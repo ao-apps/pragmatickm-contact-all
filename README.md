@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [PragmaticKM](https://github.com/aoindustries/pragmatickm) / [Contact](https://github.com/aoindustries/pragmatickm-contact) / [All](https://github.com/aoindustries/pragmatickm-contact-all)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/ao-apps) [PragmaticKM](https://github.com/ao-apps/pragmatickm) / [Contact](https://github.com/ao-apps/pragmatickm-contact) / [All](https://github.com/ao-apps/pragmatickm-contact-all)
 
 [![project: current stable](https://pragmatickm.com/ao-badges/project-current-stable.svg)](https://aoindustries.com/life-cycle#project-current-stable)
 [![management: production](https://pragmatickm.com/ao-badges/management-production.svg)](https://aoindustries.com/life-cycle#management-production)
@@ -8,7 +8,7 @@
 [![semantic versioning: 2.0.0](https://pragmatickm.com/ao-badges/semver-2.0.0.svg)](http://semver.org/spec/v2.0.0.html)
 [![license: LGPL v3](https://pragmatickm.com/ao-badges/license-lgpl-3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-[![Build](https://github.com/aoindustries/pragmatickm-contact-all/workflows/Build/badge.svg?branch=1.x)](https://github.com/aoindustries/pragmatickm-contact-all/actions?query=workflow%3ABuild)
+[![Build](https://github.com/ao-apps/pragmatickm-contact-all/workflows/Build/badge.svg?branch=1.x)](https://github.com/ao-apps/pragmatickm-contact-all/actions?query=workflow%3ABuild)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact-all/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact-all)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact-all&metric=alert_status)](https://sonarcloud.io/dashboard?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact-all)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact-all&metric=ncloc)](https://sonarcloud.io/component_measures?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact-all&metric=ncloc)  
@@ -16,20 +16,20 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact-all&metric=security_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact-all&metric=Security)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact-all&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact-all&metric=Maintainability)
 
-Convenience POM to include most [PragmaticKM Contact](https://github.com/aoindustries/pragmatickm-contact) features, not including documentation or examples.
+Convenience POM to include most [PragmaticKM Contact](https://github.com/ao-apps/pragmatickm-contact) features, not including documentation or examples.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/all/)
 * [Changelog](https://pragmatickm.com/contact/all/changelog)
 * [Maven Central Repository](https://search.maven.org/artifact/com.pragmatickm/pragmatickm-contact-all)
-* [GitHub](https://github.com/aoindustries/pragmatickm-contact-all)
+* [GitHub](https://github.com/ao-apps/pragmatickm-contact-all)
 
 ## Modules Included
-* [PragmaticKM Contact Model](https://github.com/aoindustries/pragmatickm-contact-model)
-* [PragmaticKM Contact Servlet](https://github.com/aoindustries/pragmatickm-contact-servlet)
-* [PragmaticKM Contact Style](https://github.com/aoindustries/pragmatickm-contact-style)
-* [PragmaticKM Contact Taglib](https://github.com/aoindustries/pragmatickm-contact-taglib)
-* [PragmaticKM Contact View](https://github.com/aoindustries/pragmatickm-contact-view)
+* [PragmaticKM Contact Model](https://github.com/ao-apps/pragmatickm-contact-model)
+* [PragmaticKM Contact Servlet](https://github.com/ao-apps/pragmatickm-contact-servlet)
+* [PragmaticKM Contact Style](https://github.com/ao-apps/pragmatickm-contact-style)
+* [PragmaticKM Contact Taglib](https://github.com/ao-apps/pragmatickm-contact-taglib)
+* [PragmaticKM Contact View](https://github.com/ao-apps/pragmatickm-contact-view)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
