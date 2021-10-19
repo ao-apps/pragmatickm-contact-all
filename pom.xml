@@ -122,7 +122,7 @@ along with pragmatickm-contact-all.  If not, see <http://www.gnu.org/licenses />
 		<dependencies>
 			<!-- Direct -->
 			<dependency>
-				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-model</artifactId><version>1.6.1-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
+				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-model</artifactId><version>1.6.1${POST-SNAPSHOT}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-servlet</artifactId><version>1.6.0${POST-SNAPSHOT}</version>
