@@ -1,6 +1,6 @@
 /*
  * pragmatickm-contact-all - Convenience POM to include most PragmaticKM Contact features, not including documentation or examples.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -21,8 +21,8 @@
  * along with pragmatickm-contact-all.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.pragmatickm.contact.all {
-	// Direct
-	requires transitive com.pragmatickm.contact.model; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-model</artifactId>
-	requires transitive com.pragmatickm.contact.servlet; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-servlet</artifactId>
-	requires transitive com.pragmatickm.contact.taglib; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-taglib</artifactId>
+  // Direct
+  requires transitive com.pragmatickm.contact.model; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-model</artifactId>
+  requires transitive com.pragmatickm.contact.servlet; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-servlet</artifactId>
+  requires transitive com.pragmatickm.contact.taglib; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-taglib</artifactId>
 }
