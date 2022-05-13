@@ -25,4 +25,4 @@ module com.pragmatickm.contact.all {
   requires transitive com.pragmatickm.contact.model; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-model</artifactId>
   requires transitive com.pragmatickm.contact.servlet; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-servlet</artifactId>
   requires transitive com.pragmatickm.contact.taglib; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-taglib</artifactId>
-} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
+}
