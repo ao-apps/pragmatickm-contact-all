@@ -29,7 +29,7 @@ along with pragmatickm-contact-all.  If not, see <https://www.gnu.org/licenses/>
     <relativePath>../../../parent/pom.xml</relativePath>
   </parent>
 
-  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-all-book</artifactId><version>1.5.2-SNAPSHOT</version>
+  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-all-book</artifactId><version>1.5.2</version>
   <packaging>bundle</packaging>
 
   <properties>
@@ -76,7 +76,7 @@ along with pragmatickm-contact-all.  If not, see <https://www.gnu.org/licenses/>
     <connection>scm:git:git://github.com/ao-apps/pragmatickm-contact-all.git</connection>
     <developerConnection>scm:git:git@github.com:ao-apps/pragmatickm-contact-all.git</developerConnection>
     <url>https://github.com/ao-apps/pragmatickm-contact-all</url>
-    <tag>HEAD</tag>
+    <tag>pragmatickm-contact-all-book-1.5.2</tag>
   </scm>
 
   <issueManagement>
