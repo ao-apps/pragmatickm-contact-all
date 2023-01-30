@@ -112,9 +112,10 @@ along with pragmatickm-contact-all.  If not, see <https://www.gnu.org/licenses/>
         <groupId>org.apache.maven.plugins</groupId><artifactId>maven-dependency-plugin</artifactId>
         <configuration>
           <usedDependencies>
-            <!-- Direct -->
-            <dependency>com.pragmatickm:pragmatickm-contact-servlet</dependency><!-- Required for module-info.java -->
-            <dependency>com.pragmatickm:pragmatickm-contact-taglib</dependency><!-- Required for module-info.java -->
+            <!-- Required for module-info.java -->
+            <dependency>com.pragmatickm:pragmatickm-contact-model</dependency>
+            <dependency>com.pragmatickm:pragmatickm-contact-servlet</dependency>
+            <dependency>com.pragmatickm:pragmatickm-contact-taglib</dependency>
             <!-- Runtime Direct -->
             <dependency>com.pragmatickm:pragmatickm-contact-style</dependency>
             <dependency>com.pragmatickm:pragmatickm-contact-view</dependency>
